@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Sep 28 20:13:48 BST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0150-1560-0e50-00000ca6ae88 
+on database directory C:\Users\kalit_000\IdeaProjects\SparkCookBook\metastore_db with class loader sun.misc.Launcher$AppClassLoader@5c8da962 
+Loaded from file:/C:/Users/kalit_000/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_31-b13
+user.dir=C:\Users\kalit_000\IdeaProjects\SparkCookBook
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
